@@ -27,14 +27,14 @@ each folder has the code + notes on what MDE detected vs missed.
 | area | modules | status |
 |------|---------|--------|
 | PE header parsing & string hashing | 47–48 | ✅ done |
-| IAT hiding & API hashing | 49–56, 79 | ✅ done |
-| API hooking | 57–61 | ✅ done |
-| Syscalls (Hell's Gate, HellsHall, indirect) | 62–68, 87–88 | ✅ done |
-| Anti-analysis & anti-debug | 69–77, 124 | ✅ done |
-| NTDLL unhooking | 82–86 | ✅ done |
-| ETW bypass | 102–107 | 🔄 in progress |
-| AMSI bypass | 108–110 | 🔄 in progress |
-| Process injection (APC, hollowing, stomping…) | 45–46, 118–135 | 🔄 in progress |
+| IAT hiding & API hashing | 49–56, 79 | 🔄 in progress |
+| API hooking | 57–61 | ⬜ upcoming |
+| Syscalls (Hell's Gate, HellsHall, indirect) | 62–68, 87–88 | ⬜ upcoming |
+| Anti-analysis & anti-debug | 69–77, 124 | ⬜ upcoming |
+| NTDLL unhooking | 82–86 | ⬜ upcoming |
+| ETW bypass | 102–107 | ⬜ upcoming|
+| AMSI bypass | 108–110 |⬜ upcoming |
+| Process injection (APC, hollowing, stomping…) | 45–46, 118–135 | ⬜ upcoming |
 | Sleep obfuscation (Ekko, Zilean, Foliage) | 143–146, 149 | ⬜ upcoming |
 | C2 integration & BOFs | 112–113, 139–141 | ⬜ upcoming |
 | Credential dumping | 160–168 | ⬜ upcoming |
