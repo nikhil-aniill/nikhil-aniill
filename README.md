@@ -26,7 +26,7 @@ each folder has the code + notes on what MDE detected vs missed.
 
 | area | modules | status |
 |------|---------|--------|
-| PE header parsing & string hashing | 47–48 | ✅ done |
+| PE header parsing & string hashing | 47–48 | ✅ done 🔄 in progress |
 | IAT hiding & API hashing | 49–56, 79 | 🔄 in progress |
 | API hooking | 57–61 | ⬜ upcoming |
 | Syscalls (Hell's Gate, HellsHall, indirect) | 62–68, 87–88 | ⬜ upcoming |
