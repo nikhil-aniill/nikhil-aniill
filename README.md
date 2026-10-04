@@ -15,7 +15,6 @@ not an expert. still figuring things out.
 ![status](https://img.shields.io/badge/status-learning-yellow?style=flat-square)
 
 a Rust repo where i reimplement MDA techniques as i learn them.
-each folder has the code + notes on what MDE detected vs missed.
 
 [→ maldev-rs](https://github.com/nikhil-aniill/maldev-rs)
 
