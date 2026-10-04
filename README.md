@@ -22,4 +22,4 @@ each folder has the code + notes on what MDE detected vs missed.
 ---
 
 <!-- GitHub stats -- update your username below -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikhil-aniill&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikhil-aniill&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil-aniill&layout=compact&theme=tokyonight&count_private=true&langs_count=6)
